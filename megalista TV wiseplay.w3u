@@ -1,0 +1,71 @@
+{
+"name": "MEGA LISTA TV WISEPLAY",
+"author": "Staff Listaswiseplay - 22/03/22",
+"image": "https://i.imgur.com/L5RUMsy.png",
+"url": "https://w3ubin.com/ZCdyai2si.w3u",
+"telegram": "listaswiseplay",
+"info": "Canales Oficiales Gratuitos y 100% Legales",
+"groups": [
+{
+"name": "Importar Listas",
+"image": "https://i.imgur.com/YAaMwxN.png",
+"stations": [
+{
+"name": "TDTChannels | Añadir Lista",
+"image": "https://i.imgur.com/YAaMwxN.png",
+"url": "https://www.tdtchannels.com/lists/tvradio.w3u",
+"import": true
+},
+{
+"name": "Pluto TV | Añadir Lista ",
+"image": "https://i.imgur.com/YAaMwxN.png",
+"url": "https://w3ubin.com/THHX7pa-R.w3u",
+"import": true
+},
+{
+"name": "Plex TV | Añadir Lista ",
+"image": "https://i.imgur.com/YAaMwxN.png",
+"url": "https://w3ubin.com/SWsupL-r0.w3u",
+"import": true
+},
+{
+"name": "Samsung TV Plus | Añadir Lista ",
+"image": "https://i.imgur.com/YAaMwxN.png",
+"url": "https://w3ubin.com/kzKhXrtmK.w3u",
+"import": true
+},
+{
+"name": "Rakuten TV | Añadir Lista ",
+"image": "https://i.imgur.com/YAaMwxN.png",
+"url": "https://www.apsattv.com/rakuten.m3u",
+"import": true
+}
+]
+},
+{
+"name": "TDTChannels",
+"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/logos/Logo.gif",
+"url": "https://www.tdtchannels.com/lists/tvradio.w3u"
+},
+{
+"name": "Pluto TV",
+"image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
+"url": "https://w3ubin.com/THHX7pa-R.w3u"
+},
+{
+"name": "Plex TV",
+"image": "https://i.imgur.com/lUhZfxS.png",
+"url": "https://w3ubin.com/SWsupL-r0.w3u"
+},
+{
+"name": "Samsung TV Plus",
+"image": "https://i.imgur.com/yBJOxBd.jpg",
+"url": "https://w3ubin.com/kzKhXrtmK.w3u"
+},
+{
+"name": "Rakuten TV",
+"image": "https://i.imgur.com/8XOZCdj.jpg",
+"url": "https://www.apsattv.com/rakuten.m3u"
+}
+]
+}
